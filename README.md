@@ -13,3 +13,7 @@ Release Undetected
 SUPPORT
 Supported For Newest Update
 
+HOW TO USE: 
+run FortniteExternal.bat
+open FortniteExternal.bat
+then there u go open fortnite and press f1 to open the menu
